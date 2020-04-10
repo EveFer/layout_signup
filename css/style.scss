@@ -1,0 +1,13 @@
+$primary_red:hsl(0, 100%, 74%);
+$primary_green:hsl(154, 59%, 51%);
+$accent: hsl(248, 32%, 49%);
+$neutral: hsl(249, 10%, 26%) ;
+$neutral_light: hsl(246, 25%, 77%);
+
+$font_size_body: 16px;
+$font_family: 'Poppins', sans-serif;
+
+body {
+    font-family: $font_family;
+    font-size: $font_size_body;
+}
